@@ -1,0 +1,27 @@
+body{
+    color: white;
+    background-color: #c0d3ff;
+}
+.e{
+    font-size: 30px;
+}
+#camera,#result{
+    border: 2px dashed black ;
+    width: 350px;
+    height: 300px;
+
+}
+.heading{
+    width: 45%;
+    height: 12%;
+    border-radius: 10px;    
+}
+.pd{
+    background-color: white;
+    color: #62b33a;
+    padding: 6px;   
+    border-radius: 15px;
+    width: 120px;
+    border-color: #62b33a;
+    border: 1.8px solid;
+}
